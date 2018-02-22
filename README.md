@@ -1,1 +1,3 @@
 # test-project
+
+Testing git :)
